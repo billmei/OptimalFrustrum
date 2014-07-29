@@ -1,4 +1,4 @@
-OptimalFrustrum
+Optimal Frustrum
 ===============
 
-MATLAB code to find the optimal dimensions of a bowl-shaped object (conical frustrum) to maximize volume
+MATLAB code to find the optimal dimensions that maximize the volume of a bowl-shaped object (conical frustrum)
